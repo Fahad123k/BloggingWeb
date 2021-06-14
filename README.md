@@ -1,2 +1,2 @@
 # BloggingWeb
-blogging app buy a produvt and conatact me Demo
+blogging app buy a product and contact me Demo
